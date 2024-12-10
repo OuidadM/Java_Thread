@@ -1,0 +1,12 @@
+{
+    "date": "2024-12-08T15:31:00",
+    "amount": 1200,
+    "id": 4,
+    "status": "En cours du traitement",
+    "customer": {
+        "phone": "+86332254",
+        "id": 3,
+        "nom": "Daniel Loberg",
+        "email": "Daniello@gmail.com"
+    }
+}
